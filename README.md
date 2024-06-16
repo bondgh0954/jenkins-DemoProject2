@@ -72,3 +72,9 @@
       Jenkins Dashboard
       New Item
       freestyle job
+
+      ii. Create a pipeline job
+      add a jenkins file to the application repository
+      
+
+      
