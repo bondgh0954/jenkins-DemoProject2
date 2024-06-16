@@ -54,6 +54,15 @@
       grant read write permission to the '/var/run/docker.sock file' (chmod 666 /var/run/docker.sock)
 
     3. Create Jenkins credentials for the git repository
+       source code management in jenkins UI
+       select Git
+       copy the code from github repository
+       paste inside repository url
+
+       create credentials for the repository in Jenkins
+       enter the user name and password of github or gitlab repository
+       
+       
     
       
       
