@@ -61,6 +61,17 @@
 
        create credentials for the repository in Jenkins
        enter the user name and password of github or gitlab repository
+
+   4. Create different Jenkins job types(freestyle, pipeline, multibranch pipeline) for the maven project with Jenkinsfile
+           to connect to the application git repository
+           to build jar
+           to build Docker image
+           to push to private DockerHub repository
+
+      i. Create a freestyle job in jenkins
+      Jenkins Dashboard
+      New Item
+      freestyle job
        
        
     
