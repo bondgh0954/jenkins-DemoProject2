@@ -72,6 +72,17 @@
       Jenkins Dashboard
       New Item
       freestyle job
+
+      2. Create pipeline job in jenkins
+         add jenkins file to the application repository
+
+         Jenkins file
+
+         build jar file ( mvn package)
+         build docker image ( docker build -t name + tag)
+         push image to docker hub repository ( docker push name+tag)
+
+         
        
        
     
